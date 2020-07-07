@@ -5,3 +5,14 @@ div{
 section > div{
   background-color: #AAAAAA
 }
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #FFFF;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+
+}
